@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=PT+Sans+Narrow&family=Patua+One&family=Raleway&display=swap');
+
+$tablet: 1179px;
+$mp: 639px;
+
+// common
+@import 'common/reset';
+@import 'common/header';
+@import 'common/footer';
+@import 'common/layout';
+@import 'common/popup';
+@import 'common/menu';
+
+// main
+@import 'main/visual';
+@import 'main/story';
+@import 'main/vids';
+@import 'main/pics';
+@import 'main/banner';
+@import 'main/news';
+@import 'main/btns';
+
+// sub
+@import 'sub/about';
+@import 'sub/community';
+@import 'sub/gallery';
+@import 'sub/youtube';
+@import 'sub/location';
+@import 'sub/join';
